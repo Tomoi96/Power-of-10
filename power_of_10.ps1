@@ -12,3 +12,4 @@ $number_is_10 = $final_number -eq 10
 Write-Host "The number is equal to 10; $number_is_10"
 Write-Host "The final number is $final_number"
 Write-Host "You wrote $original_number"
+Read-Host -Prompt "Press Enter to exit"
